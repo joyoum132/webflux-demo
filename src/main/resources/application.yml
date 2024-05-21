@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: demo
+  r2dbc:
+    url: r2dbc:mysql://localhost:3306/webflux?useUnicode=true&characterEncoding=utf8&useSSL=false&serverTimezone=Asia/Seoul
+    username: root
+    password: whduddlek123!
